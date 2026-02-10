@@ -1,0 +1,23 @@
+name: Create jsdeliver index.min.mjs script
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6.0.2
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v6.2.0
+        with:
+          node-version: '24'
+      - name: Create Repo from Template
+        shell: bash
+        run: |
+          gh api --method POST -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28" /repos/cloud-sdk-builds/.github/generate -f 'owner=cloud-sdk-builds' -f 'name=client-s3' -f 'description=AWS SDK for JavaScript V3 - Browser Prebuilt Direct CDN URL - No Need to Build - Just Import using importmap' -F "include_all_branches=false" -F "private=false"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
