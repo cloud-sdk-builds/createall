@@ -1,8 +1,6 @@
-name: Create jsdeliver index.min.mjs script
+name: Create Release of Repos
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 */6 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
