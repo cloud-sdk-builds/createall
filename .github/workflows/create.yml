@@ -1,6 +1,8 @@
 name: Create jsdeliver index.min.mjs script
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "30 */6 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,6 +20,15 @@ jobs:
       - name: Create Repo from Template
         shell: bash
         run: |
-          gh api --method POST -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28" /repos/cloud-sdk-builds/.github/generate -f 'owner=cloud-sdk-builds' -f 'name=client-s3' -f 'description=AWS SDK for JavaScript V3 - Browser Prebuilt Direct CDN URL - No Need to Build - Just Import using importmap' -F "include_all_branches=false" -F "private=false"
+          echo "${{ secrets.GPG_PRIVATE_KEY }}" | gpg --batch --import
+          git config --global user.name '${{ vars.GIT_USER_NAME }}'
+          git config --global user.email '${{ vars.GIT_USER_EMAIL }}'
+          git config --global commit.gpgsign true
+          git config --global gpg.program gpg
+          git config --global user.signingkey '${{ vars.GPG_KEY_ID }}'
+          node ./release.mjs
+          git commit -S -m "chore: auto release"
+          git push origin HEAD
+
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
