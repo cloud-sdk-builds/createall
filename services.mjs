@@ -1,7 +1,7 @@
 export const services = {
   "client-accessanalyzer": true,
   "client-account": true,
-  "client-acm-pca": false,
+  "client-acm-pca": true,
   "client-acm": false,
   "client-aiops": false,
   "client-amp": false,
