@@ -22,7 +22,7 @@ export const services = {
   "client-application-insights": true,
   "client-application-signals": true,
   "client-applicationcostprofiler": true,
-  "client-apprunner": false,
+  "client-apprunner": true,
   "client-appstream": false,
   "client-appsync": false,
   "client-arc-region-switch": false,
