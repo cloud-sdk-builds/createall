@@ -11,7 +11,7 @@ export const services = {
   "client-api-gateway": true,
   "client-apigatewaymanagementapi": true,
   "client-apigatewayv2": true,
-  "client-app-mesh": false,
+  "client-app-mesh": true,
   "client-appconfig": false,
   "client-appconfigdata": false,
   "client-appfabric": false,
