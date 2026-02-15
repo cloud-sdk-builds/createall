@@ -10,7 +10,7 @@ export const services = {
   "client-amplifyuibuilder": true,
   "client-api-gateway": true,
   "client-apigatewaymanagementapi": true,
-  "client-apigatewayv2": false,
+  "client-apigatewayv2": true,
   "client-app-mesh": false,
   "client-appconfig": false,
   "client-appconfigdata": false,
