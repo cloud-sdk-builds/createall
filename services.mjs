@@ -9,7 +9,7 @@ export const services = {
   "client-amplifybackend": true,
   "client-amplifyuibuilder": true,
   "client-api-gateway": true,
-  "client-apigatewaymanagementapi": false,
+  "client-apigatewaymanagementapi": true,
   "client-apigatewayv2": false,
   "client-app-mesh": false,
   "client-appconfig": false,
