@@ -6,7 +6,7 @@ export const services = {
   "client-aiops": true,
   "client-amp": true,
   "client-amplify": true,
-  "client-amplifybackend": false,
+  "client-amplifybackend": true,
   "client-amplifyuibuilder": false,
   "client-api-gateway": false,
   "client-apigatewaymanagementapi": false,
