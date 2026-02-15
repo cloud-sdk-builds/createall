@@ -5,7 +5,7 @@ export const services = {
   "client-acm": true,
   "client-aiops": true,
   "client-amp": true,
-  "client-amplify": false,
+  "client-amplify": true,
   "client-amplifybackend": false,
   "client-amplifyuibuilder": false,
   "client-api-gateway": false,
