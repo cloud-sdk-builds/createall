@@ -18,7 +18,7 @@ export const services = {
   "client-appflow": true,
   "client-appintegrations": true,
   "client-application-auto-scaling": true,
-  "client-application-discovery-service": false,
+  "client-application-discovery-service": true,
   "client-application-insights": false,
   "client-application-signals": false,
   "client-applicationcostprofiler": false,
