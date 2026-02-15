@@ -3,7 +3,7 @@ export const services = {
   "client-account": true,
   "client-acm-pca": true,
   "client-acm": true,
-  "client-aiops": false,
+  "client-aiops": true,
   "client-amp": false,
   "client-amplify": false,
   "client-amplifybackend": false,
