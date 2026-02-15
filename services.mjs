@@ -21,7 +21,7 @@ export const services = {
   "client-application-discovery-service": true,
   "client-application-insights": true,
   "client-application-signals": true,
-  "client-applicationcostprofiler": false,
+  "client-applicationcostprofiler": true,
   "client-apprunner": false,
   "client-appstream": false,
   "client-appsync": false,
