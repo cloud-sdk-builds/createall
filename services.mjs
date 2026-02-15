@@ -14,7 +14,7 @@ export const services = {
   "client-app-mesh": true,
   "client-appconfig": true,
   "client-appconfigdata": true,
-  "client-appfabric": false,
+  "client-appfabric": true,
   "client-appflow": false,
   "client-appintegrations": false,
   "client-application-auto-scaling": false,
