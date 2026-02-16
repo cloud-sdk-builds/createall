@@ -42,7 +42,7 @@ export const services = {
   "client-bcm-pricing-calculator": true,
   "client-bcm-recommended-actions": true,
   "client-bedrock-agent-runtime": true,
-  "client-bedrock-agent": false,
+  "client-bedrock-agent": true,
   "client-bedrock-agentcore-control": false,
   "client-bedrock-agentcore": false,
   "client-bedrock-data-automation-runtime": false,
