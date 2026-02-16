@@ -31,7 +31,7 @@ export const services = {
   "client-athena": true,
   "client-auditmanager": true,
   "client-auto-scaling-plans": true,
-  "client-auto-scaling": false,
+  "client-auto-scaling": true,
   "client-b2bi": false,
   "client-backup-gateway": false,
   "client-backup": false,
