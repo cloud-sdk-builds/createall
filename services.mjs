@@ -29,7 +29,7 @@ export const services = {
   "client-arc-zonal-shift": true,
   "client-artifact": true,
   "client-athena": true,
-  "client-auditmanager": false,
+  "client-auditmanager": true,
   "client-auto-scaling-plans": false,
   "client-auto-scaling": false,
   "client-b2bi": false,
