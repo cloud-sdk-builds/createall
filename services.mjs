@@ -36,7 +36,7 @@ export const services = {
   "client-backup-gateway": true,
   "client-backup": true,
   "client-backupsearch": true,
-  "client-batch": false,
+  "client-batch": true,
   "client-bcm-dashboards": false,
   "client-bcm-data-exports": false,
   "client-bcm-pricing-calculator": false,
