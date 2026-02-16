@@ -26,7 +26,7 @@ export const services = {
   "client-appstream": true,
   "client-appsync": true,
   "client-arc-region-switch": true,
-  "client-arc-zonal-shift": false,
+  "client-arc-zonal-shift": true,
   "client-artifact": false,
   "client-athena": false,
   "client-auditmanager": false,
