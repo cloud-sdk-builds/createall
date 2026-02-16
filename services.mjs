@@ -33,7 +33,7 @@ export const services = {
   "client-auto-scaling-plans": true,
   "client-auto-scaling": true,
   "client-b2bi": true,
-  "client-backup-gateway": false,
+  "client-backup-gateway": true,
   "client-backup": false,
   "client-backupsearch": false,
   "client-batch": false,
