@@ -28,7 +28,7 @@ export const services = {
   "client-arc-region-switch": true,
   "client-arc-zonal-shift": true,
   "client-artifact": true,
-  "client-athena": false,
+  "client-athena": true,
   "client-auditmanager": false,
   "client-auto-scaling-plans": false,
   "client-auto-scaling": false,
