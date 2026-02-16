@@ -39,7 +39,7 @@ export const services = {
   "client-batch": true,
   "client-bcm-dashboards": true,
   "client-bcm-data-exports": true,
-  "client-bcm-pricing-calculator": false,
+  "client-bcm-pricing-calculator": true,
   "client-bcm-recommended-actions": false,
   "client-bedrock-agent-runtime": false,
   "client-bedrock-agent": false,
