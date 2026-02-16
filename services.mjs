@@ -23,7 +23,7 @@ export const services = {
   "client-application-signals": true,
   "client-applicationcostprofiler": true,
   "client-apprunner": true,
-  "client-appstream": false,
+  "client-appstream": true,
   "client-appsync": false,
   "client-arc-region-switch": false,
   "client-arc-zonal-shift": false,
