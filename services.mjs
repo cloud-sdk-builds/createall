@@ -24,7 +24,7 @@ export const services = {
   "client-applicationcostprofiler": true,
   "client-apprunner": true,
   "client-appstream": true,
-  "client-appsync": false,
+  "client-appsync": true,
   "client-arc-region-switch": false,
   "client-arc-zonal-shift": false,
   "client-artifact": false,
