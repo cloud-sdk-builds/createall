@@ -62,7 +62,7 @@ export const services = {
   "client-chime": true,
   "client-cleanrooms": true,
   "client-cleanroomsml": true,
-  "client-cloud9": false,
+  "client-cloud9": true,
   "client-cloudcontrol": false,
   "client-clouddirectory": false,
   "client-cloudformation": false,
