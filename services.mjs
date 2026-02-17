@@ -51,7 +51,7 @@ export const services = {
   "client-bedrock": true,
   "client-billing": true,
   "client-billingconductor": true,
-  "client-braket": false,
+  "client-braket": true,
   "client-budgets": false,
   "client-chatbot": false,
   "client-chime-sdk-identity": false,
