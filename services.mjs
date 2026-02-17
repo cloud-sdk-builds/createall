@@ -57,7 +57,7 @@ export const services = {
   "client-chime-sdk-identity": true,
   "client-chime-sdk-media-pipelines": true,
   "client-chime-sdk-meetings": true,
-  "client-chime-sdk-messaging": false,
+  "client-chime-sdk-messaging": true,
   "client-chime-sdk-voice": false,
   "client-chime": false,
   "client-cleanrooms": false,
