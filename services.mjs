@@ -59,7 +59,7 @@ export const services = {
   "client-chime-sdk-meetings": true,
   "client-chime-sdk-messaging": true,
   "client-chime-sdk-voice": true,
-  "client-chime": false,
+  "client-chime": true,
   "client-cleanrooms": false,
   "client-cleanroomsml": false,
   "client-cloud9": false,
