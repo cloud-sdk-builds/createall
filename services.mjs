@@ -50,7 +50,7 @@ export const services = {
   "client-bedrock-runtime": true,
   "client-bedrock": true,
   "client-billing": true,
-  "client-billingconductor": false,
+  "client-billingconductor": true,
   "client-braket": false,
   "client-budgets": false,
   "client-chatbot": false,
