@@ -63,7 +63,7 @@ export const services = {
   "client-cleanrooms": true,
   "client-cleanroomsml": true,
   "client-cloud9": true,
-  "client-cloudcontrol": false,
+  "client-cloudcontrol": true,
   "client-clouddirectory": false,
   "client-cloudformation": false,
   "client-cloudfront-keyvaluestore": false,
