@@ -54,7 +54,7 @@ export const services = {
   "client-braket": true,
   "client-budgets": true,
   "client-chatbot": true,
-  "client-chime-sdk-identity": false,
+  "client-chime-sdk-identity": true,
   "client-chime-sdk-media-pipelines": false,
   "client-chime-sdk-meetings": false,
   "client-chime-sdk-messaging": false,
