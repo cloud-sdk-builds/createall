@@ -60,7 +60,7 @@ export const services = {
   "client-chime-sdk-messaging": true,
   "client-chime-sdk-voice": true,
   "client-chime": true,
-  "client-cleanrooms": false,
+  "client-cleanrooms": true,
   "client-cleanroomsml": false,
   "client-cloud9": false,
   "client-cloudcontrol": false,
