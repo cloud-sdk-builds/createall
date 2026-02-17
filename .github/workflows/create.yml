@@ -2,7 +2,7 @@ name: Create Release of Repos
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7,14,21,28,35,42,49,56 * * * *'
+    - cron: '0/7 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
