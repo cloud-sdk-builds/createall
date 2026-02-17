@@ -48,7 +48,7 @@ export const services = {
   "client-bedrock-data-automation-runtime": true,
   "client-bedrock-data-automation": true,
   "client-bedrock-runtime": true,
-  "client-bedrock": false,
+  "client-bedrock": true,
   "client-billing": false,
   "client-billingconductor": false,
   "client-braket": false,
