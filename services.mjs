@@ -47,7 +47,7 @@ export const services = {
   "client-bedrock-agentcore": true,
   "client-bedrock-data-automation-runtime": true,
   "client-bedrock-data-automation": true,
-  "client-bedrock-runtime": false,
+  "client-bedrock-runtime": true,
   "client-bedrock": false,
   "client-billing": false,
   "client-billingconductor": false,
