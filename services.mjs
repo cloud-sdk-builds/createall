@@ -94,7 +94,7 @@ export const services = {
   "client-cognito-sync": true,
   "client-comprehend": true,
   "client-comprehendmedical": true,
-  "client-compute-optimizer-automation": false,
+  "client-compute-optimizer-automation": true,
   "client-compute-optimizer": false,
   "client-config-service": false,
   "client-connect-contact-lens": false,
