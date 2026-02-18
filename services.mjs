@@ -123,7 +123,7 @@ export const services = {
   "client-direct-connect": true,
   "client-directory-service-data": true,
   "client-directory-service": true,
-  "client-dlm": false,
+  "client-dlm": true,
   "client-docdb-elastic": false,
   "client-docdb": false,
   "client-drs": false,
