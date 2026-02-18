@@ -75,7 +75,7 @@ export const services = {
   "client-cloudtrail-data": true,
   "client-cloudtrail": true,
   "client-cloudwatch-events": true,
-  "client-cloudwatch-logs": false,
+  "client-cloudwatch-logs": true,
   "client-cloudwatch": false,
   "client-codeartifact": false,
   "client-codebuild": false,
