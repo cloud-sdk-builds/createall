@@ -91,7 +91,7 @@ export const services = {
   "client-codestar-notifications": true,
   "client-cognito-identity-provider": true,
   "client-cognito-identity": true,
-  "client-cognito-sync": false,
+  "client-cognito-sync": true,
   "client-comprehend": false,
   "client-comprehendmedical": false,
   "client-compute-optimizer-automation": false,
