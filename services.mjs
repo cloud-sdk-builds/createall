@@ -126,7 +126,7 @@ export const services = {
   "client-dlm": true,
   "client-docdb-elastic": true,
   "client-docdb": true,
-  "client-drs": false,
+  "client-drs": true,
   "client-dsql": false,
   "client-dynamodb-streams": false,
   "client-dynamodb": false,
