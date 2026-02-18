@@ -69,7 +69,7 @@ export const services = {
   "client-cloudfront-keyvaluestore": true,
   "client-cloudfront": true,
   "client-cloudhsm-v2": true,
-  "client-cloudhsm": false,
+  "client-cloudhsm": true,
   "client-cloudsearch-domain": false,
   "client-cloudsearch": false,
   "client-cloudtrail-data": false,
