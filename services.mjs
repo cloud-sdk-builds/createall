@@ -118,7 +118,7 @@ export const services = {
   "client-dax": true,
   "client-deadline": true,
   "client-detective": true,
-  "client-device-farm": false,
+  "client-device-farm": true,
   "client-devops-guru": false,
   "client-direct-connect": false,
   "client-directory-service-data": false,
