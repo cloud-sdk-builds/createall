@@ -113,7 +113,7 @@ export const services = {
   "client-database-migration-service": true,
   "client-databrew": true,
   "client-dataexchange": true,
-  "client-datasync": false,
+  "client-datasync": true,
   "client-datazone": false,
   "client-dax": false,
   "client-deadline": false,
