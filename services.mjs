@@ -70,7 +70,7 @@ export const services = {
   "client-cloudfront": true,
   "client-cloudhsm-v2": true,
   "client-cloudhsm": true,
-  "client-cloudsearch-domain": false,
+  "client-cloudsearch-domain": true,
   "client-cloudsearch": false,
   "client-cloudtrail-data": false,
   "client-cloudtrail": false,
