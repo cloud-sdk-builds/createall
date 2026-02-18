@@ -129,7 +129,7 @@ export const services = {
   "client-drs": true,
   "client-dsql": true,
   "client-dynamodb-streams": true,
-  "client-dynamodb": false,
+  "client-dynamodb": true,
   "client-ebs": false,
   "client-ec2-instance-connect": false,
   "client-ec2": false,
