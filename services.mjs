@@ -124,7 +124,7 @@ export const services = {
   "client-directory-service-data": true,
   "client-directory-service": true,
   "client-dlm": true,
-  "client-docdb-elastic": false,
+  "client-docdb-elastic": true,
   "client-docdb": false,
   "client-drs": false,
   "client-dsql": false,
