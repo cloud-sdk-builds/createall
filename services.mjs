@@ -92,7 +92,7 @@ export const services = {
   "client-cognito-identity-provider": true,
   "client-cognito-identity": true,
   "client-cognito-sync": true,
-  "client-comprehend": false,
+  "client-comprehend": true,
   "client-comprehendmedical": false,
   "client-compute-optimizer-automation": false,
   "client-compute-optimizer": false,
