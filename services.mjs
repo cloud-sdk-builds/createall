@@ -114,7 +114,7 @@ export const services = {
   "client-databrew": true,
   "client-dataexchange": true,
   "client-datasync": true,
-  "client-datazone": false,
+  "client-datazone": true,
   "client-dax": false,
   "client-deadline": false,
   "client-detective": false,
