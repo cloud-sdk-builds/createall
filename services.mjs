@@ -115,7 +115,7 @@ export const services = {
   "client-dataexchange": true,
   "client-datasync": true,
   "client-datazone": true,
-  "client-dax": false,
+  "client-dax": true,
   "client-deadline": false,
   "client-detective": false,
   "client-device-farm": false,
