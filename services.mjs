@@ -101,7 +101,7 @@ export const services = {
   "client-connect": true,
   "client-connectcampaigns": true,
   "client-connectcampaignsv2": true,
-  "client-connectcases": false,
+  "client-connectcases": true,
   "client-connectparticipant": false,
   "client-controlcatalog": false,
   "client-controltower": false,
