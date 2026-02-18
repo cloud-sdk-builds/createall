@@ -97,7 +97,7 @@ export const services = {
   "client-compute-optimizer-automation": true,
   "client-compute-optimizer": true,
   "client-config-service": true,
-  "client-connect-contact-lens": false,
+  "client-connect-contact-lens": true,
   "client-connect": false,
   "client-connectcampaigns": false,
   "client-connectcampaignsv2": false,
