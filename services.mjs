@@ -90,7 +90,7 @@ export const services = {
   "client-codestar-connections": true,
   "client-codestar-notifications": true,
   "client-cognito-identity-provider": true,
-  "client-cognito-identity": false,
+  "client-cognito-identity": true,
   "client-cognito-sync": false,
   "client-comprehend": false,
   "client-comprehendmedical": false,
