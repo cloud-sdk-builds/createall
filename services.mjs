@@ -96,7 +96,7 @@ export const services = {
   "client-comprehendmedical": true,
   "client-compute-optimizer-automation": true,
   "client-compute-optimizer": true,
-  "client-config-service": false,
+  "client-config-service": true,
   "client-connect-contact-lens": false,
   "client-connect": false,
   "client-connectcampaigns": false,
