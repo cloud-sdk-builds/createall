@@ -79,7 +79,7 @@ export const services = {
   "client-cloudwatch": true,
   "client-codeartifact": true,
   "client-codebuild": true,
-  "client-codecatalyst": false,
+  "client-codecatalyst": true,
   "client-codecommit": false,
   "client-codeconnections": false,
   "client-codedeploy": false,
