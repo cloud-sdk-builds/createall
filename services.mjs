@@ -110,7 +110,7 @@ export const services = {
   "client-cost-optimization-hub": true,
   "client-customer-profiles": true,
   "client-data-pipeline": true,
-  "client-database-migration-service": false,
+  "client-database-migration-service": true,
   "client-databrew": false,
   "client-dataexchange": false,
   "client-datasync": false,
