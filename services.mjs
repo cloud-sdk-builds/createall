@@ -105,7 +105,7 @@ export const services = {
   "client-connectparticipant": true,
   "client-controlcatalog": true,
   "client-controltower": true,
-  "client-cost-and-usage-report-service": false,
+  "client-cost-and-usage-report-service": true,
   "client-cost-explorer": false,
   "client-cost-optimization-hub": false,
   "client-customer-profiles": false,
