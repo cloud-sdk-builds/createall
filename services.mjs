@@ -122,7 +122,7 @@ export const services = {
   "client-devops-guru": true,
   "client-direct-connect": true,
   "client-directory-service-data": true,
-  "client-directory-service": false,
+  "client-directory-service": true,
   "client-dlm": false,
   "client-docdb-elastic": false,
   "client-docdb": false,
