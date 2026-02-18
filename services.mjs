@@ -80,7 +80,7 @@ export const services = {
   "client-codeartifact": true,
   "client-codebuild": true,
   "client-codecatalyst": true,
-  "client-codecommit": false,
+  "client-codecommit": true,
   "client-codeconnections": false,
   "client-codedeploy": false,
   "client-codeguru-reviewer": false,
