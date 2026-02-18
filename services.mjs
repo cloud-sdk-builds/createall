@@ -71,7 +71,7 @@ export const services = {
   "client-cloudhsm-v2": true,
   "client-cloudhsm": true,
   "client-cloudsearch-domain": true,
-  "client-cloudsearch": false,
+  "client-cloudsearch": true,
   "client-cloudtrail-data": false,
   "client-cloudtrail": false,
   "client-cloudwatch-events": false,
