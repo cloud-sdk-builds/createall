@@ -100,7 +100,7 @@ export const services = {
   "client-connect-contact-lens": true,
   "client-connect": true,
   "client-connectcampaigns": true,
-  "client-connectcampaignsv2": false,
+  "client-connectcampaignsv2": true,
   "client-connectcases": false,
   "client-connectparticipant": false,
   "client-controlcatalog": false,
