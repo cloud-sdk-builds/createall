@@ -85,7 +85,7 @@ export const services = {
   "client-codedeploy": true,
   "client-codeguru-reviewer": true,
   "client-codeguru-security": true,
-  "client-codeguruprofiler": false,
+  "client-codeguruprofiler": true,
   "client-codepipeline": false,
   "client-codestar-connections": false,
   "client-codestar-notifications": false,
