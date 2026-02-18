@@ -89,7 +89,7 @@ export const services = {
   "client-codepipeline": true,
   "client-codestar-connections": true,
   "client-codestar-notifications": true,
-  "client-cognito-identity-provider": false,
+  "client-cognito-identity-provider": true,
   "client-cognito-identity": false,
   "client-cognito-sync": false,
   "client-comprehend": false,
