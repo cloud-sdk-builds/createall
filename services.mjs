@@ -88,7 +88,7 @@ export const services = {
   "client-codeguruprofiler": true,
   "client-codepipeline": true,
   "client-codestar-connections": true,
-  "client-codestar-notifications": false,
+  "client-codestar-notifications": true,
   "client-cognito-identity-provider": false,
   "client-cognito-identity": false,
   "client-cognito-sync": false,
