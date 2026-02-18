@@ -121,7 +121,7 @@ export const services = {
   "client-device-farm": true,
   "client-devops-guru": true,
   "client-direct-connect": true,
-  "client-directory-service-data": false,
+  "client-directory-service-data": true,
   "client-directory-service": false,
   "client-dlm": false,
   "client-docdb-elastic": false,
