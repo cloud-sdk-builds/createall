@@ -117,7 +117,7 @@ export const services = {
   "client-datazone": true,
   "client-dax": true,
   "client-deadline": true,
-  "client-detective": false,
+  "client-detective": true,
   "client-device-farm": false,
   "client-devops-guru": false,
   "client-direct-connect": false,
