@@ -120,7 +120,7 @@ export const services = {
   "client-detective": true,
   "client-device-farm": true,
   "client-devops-guru": true,
-  "client-direct-connect": false,
+  "client-direct-connect": true,
   "client-directory-service-data": false,
   "client-directory-service": false,
   "client-dlm": false,
