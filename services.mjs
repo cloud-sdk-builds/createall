@@ -400,7 +400,7 @@ export const services = {
   "client-trustedadvisor": true,
   "client-verifiedpermissions": true,
   "client-voice-id": true,
-  "client-vpc-lattice": false,
+  "client-vpc-lattice": true,
   "client-waf-regional": false,
   "client-waf": false,
   "client-wafv2": false,
