@@ -205,7 +205,7 @@ export const services = {
   "client-kafkaconnect": true,
   "client-kendra-ranking": true,
   "client-kendra": true,
-  "client-keyspaces": false,
+  "client-keyspaces": true,
   "client-keyspacesstreams": false,
   "client-kinesis-analytics-v2": false,
   "client-kinesis-analytics": false,
