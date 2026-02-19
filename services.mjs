@@ -228,7 +228,7 @@ export const services = {
   "client-license-manager": true,
   "client-lightsail": true,
   "client-location": true,
-  "client-lookoutequipment": false,
+  "client-lookoutequipment": true,
   "client-m2": false,
   "client-machine-learning": false,
   "client-macie2": false,
