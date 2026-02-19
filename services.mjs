@@ -199,7 +199,7 @@ export const services = {
   "client-iotthingsgraph": true,
   "client-iottwinmaker": true,
   "client-ivs-realtime": true,
-  "client-ivs": false,
+  "client-ivs": true,
   "client-ivschat": false,
   "client-kafka": false,
   "client-kafkaconnect": false,
