@@ -259,7 +259,7 @@ export const services = {
   "client-migrationhub-config": true,
   "client-migrationhuborchestrator": true,
   "client-migrationhubstrategy": true,
-  "client-mpa": false,
+  "client-mpa": true,
   "client-mq": false,
   "client-mturk": false,
   "client-mwaa-serverless": false,
