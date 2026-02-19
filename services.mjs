@@ -180,7 +180,7 @@ export const services = {
   "client-identitystore": true,
   "client-imagebuilder": true,
   "client-inspector-scan": true,
-  "client-inspector": false,
+  "client-inspector": true,
   "client-inspector2": false,
   "client-internetmonitor": false,
   "client-invoicing": false,
