@@ -283,7 +283,7 @@ export const services = {
   "client-organizations": true,
   "client-osis": true,
   "client-outposts": true,
-  "client-panorama": false,
+  "client-panorama": true,
   "client-partnercentral-account": false,
   "client-partnercentral-benefits": false,
   "client-partnercentral-channel": false,
