@@ -153,7 +153,7 @@ export const services = {
   "client-evs": true,
   "client-finspace-data": true,
   "client-finspace": true,
-  "client-firehose": false,
+  "client-firehose": true,
   "client-fis": false,
   "client-fms": false,
   "client-forecast": false,
