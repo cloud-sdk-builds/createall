@@ -350,7 +350,7 @@ export const services = {
   "client-savingsplans": true,
   "client-scheduler": true,
   "client-schemas": true,
-  "client-secrets-manager": false,
+  "client-secrets-manager": true,
   "client-security-ir": false,
   "client-securityhub": false,
   "client-securitylake": false,
