@@ -148,7 +148,7 @@ export const services = {
   "client-emr-serverless": true,
   "client-emr": true,
   "client-entityresolution": true,
-  "client-eventbridge": false,
+  "client-eventbridge": true,
   "client-evidently": false,
   "client-evs": false,
   "client-finspace-data": false,
