@@ -302,7 +302,7 @@ export const services = {
   "client-pinpoint-sms-voice": true,
   "client-pinpoint": true,
   "client-pipes": true,
-  "client-polly": false,
+  "client-polly": true,
   "client-pricing": false,
   "client-proton": false,
   "client-qapps": false,
