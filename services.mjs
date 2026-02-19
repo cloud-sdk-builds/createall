@@ -380,7 +380,7 @@ export const services = {
   "client-sso-admin": true,
   "client-sso-oidc": true,
   "client-sso": true,
-  "client-storage-gateway": false,
+  "client-storage-gateway": true,
   "client-sts": false,
   "client-supplychain": false,
   "client-support-app": false,
