@@ -146,7 +146,7 @@ export const services = {
   "client-elasticsearch-service": true,
   "client-emr-containers": true,
   "client-emr-serverless": true,
-  "client-emr": false,
+  "client-emr": true,
   "client-entityresolution": false,
   "client-eventbridge": false,
   "client-evidently": false,
