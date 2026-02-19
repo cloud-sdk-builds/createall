@@ -167,7 +167,7 @@ export const services = {
   "client-geo-places": true,
   "client-geo-routes": true,
   "client-glacier": true,
-  "client-global-accelerator": false,
+  "client-global-accelerator": true,
   "client-glue": false,
   "client-grafana": false,
   "client-greengrass": false,
