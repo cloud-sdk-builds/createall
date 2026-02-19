@@ -175,7 +175,7 @@ export const services = {
   "client-groundstation": true,
   "client-guardduty": true,
   "client-health": true,
-  "client-healthlake": false,
+  "client-healthlake": true,
   "client-iam": false,
   "client-identitystore": false,
   "client-imagebuilder": false,
