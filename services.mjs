@@ -357,7 +357,7 @@ export const services = {
   "client-serverlessapplicationrepository": true,
   "client-service-catalog-appregistry": true,
   "client-service-catalog": true,
-  "client-service-quotas": false,
+  "client-service-quotas": true,
   "client-servicediscovery": false,
   "client-ses": false,
   "client-sesv2": false,
