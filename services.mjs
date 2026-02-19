@@ -178,7 +178,7 @@ export const services = {
   "client-healthlake": true,
   "client-iam": true,
   "client-identitystore": true,
-  "client-imagebuilder": false,
+  "client-imagebuilder": true,
   "client-inspector-scan": false,
   "client-inspector": false,
   "client-inspector2": false,
