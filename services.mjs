@@ -390,7 +390,7 @@ export const services = {
   "client-taxsettings": true,
   "client-textract": true,
   "client-timestream-influxdb": true,
-  "client-timestream-query": false,
+  "client-timestream-query": true,
   "client-timestream-write": false,
   "client-tnb": false,
   "client-transcribe-streaming": false,
