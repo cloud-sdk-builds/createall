@@ -270,7 +270,7 @@ export const services = {
   "client-network-firewall": true,
   "client-networkflowmonitor": true,
   "client-networkmanager": true,
-  "client-networkmonitor": false,
+  "client-networkmonitor": true,
   "client-notifications": false,
   "client-notificationscontacts": false,
   "client-nova-act": false,
