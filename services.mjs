@@ -286,7 +286,7 @@ export const services = {
   "client-panorama": true,
   "client-partnercentral-account": true,
   "client-partnercentral-benefits": true,
-  "client-partnercentral-channel": false,
+  "client-partnercentral-channel": true,
   "client-partnercentral-selling": false,
   "client-payment-cryptography-data": false,
   "client-payment-cryptography": false,
