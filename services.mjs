@@ -285,7 +285,7 @@ export const services = {
   "client-outposts": true,
   "client-panorama": true,
   "client-partnercentral-account": true,
-  "client-partnercentral-benefits": false,
+  "client-partnercentral-benefits": true,
   "client-partnercentral-channel": false,
   "client-partnercentral-selling": false,
   "client-payment-cryptography-data": false,
