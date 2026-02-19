@@ -245,7 +245,7 @@ export const services = {
   "client-mediaconnect": true,
   "client-mediaconvert": true,
   "client-medialive": true,
-  "client-mediapackage-vod": false,
+  "client-mediapackage-vod": true,
   "client-mediapackage": false,
   "client-mediapackagev2": false,
   "client-mediastore-data": false,
