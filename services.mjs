@@ -310,7 +310,7 @@ export const services = {
   "client-qconnect": true,
   "client-quicksight": true,
   "client-ram": true,
-  "client-rbin": false,
+  "client-rbin": true,
   "client-rds-data": false,
   "client-rds": false,
   "client-redshift-data": false,
