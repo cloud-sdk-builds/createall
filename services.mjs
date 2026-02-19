@@ -220,7 +220,7 @@ export const services = {
   "client-lambda": true,
   "client-launch-wizard": true,
   "client-lex-model-building-service": true,
-  "client-lex-models-v2": false,
+  "client-lex-models-v2": true,
   "client-lex-runtime-service": false,
   "client-lex-runtime-v2": false,
   "client-license-manager-linux-subscriptions": false,
