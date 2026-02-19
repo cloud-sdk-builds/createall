@@ -375,7 +375,7 @@ export const services = {
   "client-ssm-guiconnect": true,
   "client-ssm-incidents": true,
   "client-ssm-quicksetup": true,
-  "client-ssm-sap": false,
+  "client-ssm-sap": true,
   "client-ssm": false,
   "client-sso-admin": false,
   "client-sso-oidc": false,
