@@ -206,7 +206,7 @@ export const services = {
   "client-kendra-ranking": true,
   "client-kendra": true,
   "client-keyspaces": true,
-  "client-keyspacesstreams": false,
+  "client-keyspacesstreams": true,
   "client-kinesis-analytics-v2": false,
   "client-kinesis-analytics": false,
   "client-kinesis-video-archived-media": false,
