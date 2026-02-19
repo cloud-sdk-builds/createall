@@ -268,7 +268,7 @@ export const services = {
   "client-neptune": true,
   "client-neptunedata": true,
   "client-network-firewall": true,
-  "client-networkflowmonitor": false,
+  "client-networkflowmonitor": true,
   "client-networkmanager": false,
   "client-networkmonitor": false,
   "client-notifications": false,
