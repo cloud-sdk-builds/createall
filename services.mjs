@@ -361,7 +361,7 @@ export const services = {
   "client-servicediscovery": true,
   "client-ses": true,
   "client-sesv2": true,
-  "client-sfn": false,
+  "client-sfn": true,
   "client-shield": false,
   "client-signer": false,
   "client-signin": false,
