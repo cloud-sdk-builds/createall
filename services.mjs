@@ -176,7 +176,7 @@ export const services = {
   "client-guardduty": true,
   "client-health": true,
   "client-healthlake": true,
-  "client-iam": false,
+  "client-iam": true,
   "client-identitystore": false,
   "client-imagebuilder": false,
   "client-inspector-scan": false,
