@@ -203,7 +203,7 @@ export const services = {
   "client-ivschat": true,
   "client-kafka": true,
   "client-kafkaconnect": true,
-  "client-kendra-ranking": false,
+  "client-kendra-ranking": true,
   "client-kendra": false,
   "client-keyspaces": false,
   "client-keyspacesstreams": false,
