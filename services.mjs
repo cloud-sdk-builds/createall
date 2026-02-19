@@ -248,7 +248,7 @@ export const services = {
   "client-mediapackage-vod": true,
   "client-mediapackage": true,
   "client-mediapackagev2": true,
-  "client-mediastore-data": false,
+  "client-mediastore-data": true,
   "client-mediastore": false,
   "client-mediatailor": false,
   "client-medical-imaging": false,
