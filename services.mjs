@@ -207,7 +207,7 @@ export const services = {
   "client-kendra": true,
   "client-keyspaces": true,
   "client-keyspacesstreams": true,
-  "client-kinesis-analytics-v2": false,
+  "client-kinesis-analytics-v2": true,
   "client-kinesis-analytics": false,
   "client-kinesis-video-archived-media": false,
   "client-kinesis-video-media": false,
