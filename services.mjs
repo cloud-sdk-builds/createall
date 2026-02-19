@@ -152,7 +152,7 @@ export const services = {
   "client-evidently": true,
   "client-evs": true,
   "client-finspace-data": true,
-  "client-finspace": false,
+  "client-finspace": true,
   "client-firehose": false,
   "client-fis": false,
   "client-fms": false,
