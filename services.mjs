@@ -230,7 +230,7 @@ export const services = {
   "client-location": true,
   "client-lookoutequipment": true,
   "client-m2": true,
-  "client-machine-learning": false,
+  "client-machine-learning": true,
   "client-macie2": false,
   "client-mailmanager": false,
   "client-managedblockchain-query": false,
