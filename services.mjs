@@ -303,7 +303,7 @@ export const services = {
   "client-pinpoint": true,
   "client-pipes": true,
   "client-polly": true,
-  "client-pricing": false,
+  "client-pricing": true,
   "client-proton": false,
   "client-qapps": false,
   "client-qbusiness": false,
