@@ -379,7 +379,7 @@ export const services = {
   "client-ssm": true,
   "client-sso-admin": true,
   "client-sso-oidc": true,
-  "client-sso": false,
+  "client-sso": true,
   "client-storage-gateway": false,
   "client-sts": false,
   "client-supplychain": false,
