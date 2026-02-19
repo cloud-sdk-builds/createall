@@ -282,7 +282,7 @@ export const services = {
   "client-opensearchserverless": true,
   "client-organizations": true,
   "client-osis": true,
-  "client-outposts": false,
+  "client-outposts": true,
   "client-panorama": false,
   "client-partnercentral-account": false,
   "client-partnercentral-benefits": false,
