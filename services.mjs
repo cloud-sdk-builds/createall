@@ -134,7 +134,7 @@ export const services = {
   "client-ec2-instance-connect": true,
   "client-ec2": true,
   "client-ecr-public": true,
-  "client-ecr": false,
+  "client-ecr": true,
   "client-ecs": false,
   "client-efs": false,
   "client-eks-auth": false,
