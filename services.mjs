@@ -308,7 +308,7 @@ export const services = {
   "client-qapps": true,
   "client-qbusiness": true,
   "client-qconnect": true,
-  "client-quicksight": false,
+  "client-quicksight": true,
   "client-ram": false,
   "client-rbin": false,
   "client-rds-data": false,
