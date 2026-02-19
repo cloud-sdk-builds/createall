@@ -260,7 +260,7 @@ export const services = {
   "client-migrationhuborchestrator": true,
   "client-migrationhubstrategy": true,
   "client-mpa": true,
-  "client-mq": false,
+  "client-mq": true,
   "client-mturk": false,
   "client-mwaa-serverless": false,
   "client-mwaa": false,
