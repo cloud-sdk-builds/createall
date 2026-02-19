@@ -212,7 +212,7 @@ export const services = {
   "client-kinesis-video-archived-media": true,
   "client-kinesis-video-media": true,
   "client-kinesis-video-signaling": true,
-  "client-kinesis-video-webrtc-storage": false,
+  "client-kinesis-video-webrtc-storage": true,
   "client-kinesis-video": false,
   "client-kinesis": false,
   "client-kms": false,
