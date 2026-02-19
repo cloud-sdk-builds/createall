@@ -190,7 +190,7 @@ export const services = {
   "client-iot-jobs-data-plane": true,
   "client-iot-managed-integrations": true,
   "client-iot-wireless": true,
-  "client-iot": false,
+  "client-iot": true,
   "client-iotanalytics": false,
   "client-iotdeviceadvisor": false,
   "client-iotfleetwise": false,
