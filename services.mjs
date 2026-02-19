@@ -337,7 +337,7 @@ export const services = {
   "client-s3-control": true,
   "client-s3": true,
   "client-s3outposts": true,
-  "client-s3tables": false,
+  "client-s3tables": true,
   "client-s3vectors": false,
   "client-sagemaker-a2i-runtime": false,
   "client-sagemaker-edge": false,
