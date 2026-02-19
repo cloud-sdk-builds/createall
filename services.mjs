@@ -301,7 +301,7 @@ export const services = {
   "client-pinpoint-sms-voice-v2": true,
   "client-pinpoint-sms-voice": true,
   "client-pinpoint": true,
-  "client-pipes": false,
+  "client-pipes": true,
   "client-polly": false,
   "client-pricing": false,
   "client-proton": false,
