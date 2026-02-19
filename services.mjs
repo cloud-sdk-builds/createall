@@ -321,7 +321,7 @@ export const services = {
   "client-repostspace": true,
   "client-resiliencehub": true,
   "client-resource-explorer-2": true,
-  "client-resource-groups-tagging-api": false,
+  "client-resource-groups-tagging-api": true,
   "client-resource-groups": false,
   "client-rolesanywhere": false,
   "client-route-53-domains": false,
