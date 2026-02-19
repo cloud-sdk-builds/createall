@@ -238,7 +238,7 @@ export const services = {
   "client-marketplace-agreement": true,
   "client-marketplace-catalog": true,
   "client-marketplace-commerce-analytics": true,
-  "client-marketplace-deployment": false,
+  "client-marketplace-deployment": true,
   "client-marketplace-entitlement-service": false,
   "client-marketplace-metering": false,
   "client-marketplace-reporting": false,
