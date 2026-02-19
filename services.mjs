@@ -275,7 +275,7 @@ export const services = {
   "client-notificationscontacts": true,
   "client-nova-act": true,
   "client-oam": true,
-  "client-observabilityadmin": false,
+  "client-observabilityadmin": true,
   "client-odb": false,
   "client-omics": false,
   "client-opensearch": false,
