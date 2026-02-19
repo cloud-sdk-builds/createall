@@ -333,7 +333,7 @@ export const services = {
   "client-route53profiles": true,
   "client-route53resolver": true,
   "client-rtbfabric": true,
-  "client-rum": false,
+  "client-rum": true,
   "client-s3-control": false,
   "client-s3": false,
   "client-s3outposts": false,
