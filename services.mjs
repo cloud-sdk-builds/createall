@@ -200,7 +200,7 @@ export const services = {
   "client-iottwinmaker": true,
   "client-ivs-realtime": true,
   "client-ivs": true,
-  "client-ivschat": false,
+  "client-ivschat": true,
   "client-kafka": false,
   "client-kafkaconnect": false,
   "client-kendra-ranking": false,
