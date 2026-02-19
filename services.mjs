@@ -339,7 +339,7 @@ export const services = {
   "client-s3outposts": true,
   "client-s3tables": true,
   "client-s3vectors": true,
-  "client-sagemaker-a2i-runtime": false,
+  "client-sagemaker-a2i-runtime": true,
   "client-sagemaker-edge": false,
   "client-sagemaker-featurestore-runtime": false,
   "client-sagemaker-geospatial": false,
