@@ -402,7 +402,7 @@ export const services = {
   "client-voice-id": true,
   "client-vpc-lattice": true,
   "client-waf-regional": true,
-  "client-waf": false,
+  "client-waf": true,
   "client-wafv2": false,
   "client-wellarchitected": false,
   "client-wickr": false,
