@@ -150,7 +150,7 @@ export const services = {
   "client-entityresolution": true,
   "client-eventbridge": true,
   "client-evidently": true,
-  "client-evs": false,
+  "client-evs": true,
   "client-finspace-data": false,
   "client-finspace": false,
   "client-firehose": false,
