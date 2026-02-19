@@ -229,7 +229,7 @@ export const services = {
   "client-lightsail": true,
   "client-location": true,
   "client-lookoutequipment": true,
-  "client-m2": false,
+  "client-m2": true,
   "client-machine-learning": false,
   "client-macie2": false,
   "client-mailmanager": false,
