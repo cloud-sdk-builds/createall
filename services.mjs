@@ -351,7 +351,7 @@ export const services = {
   "client-scheduler": true,
   "client-schemas": true,
   "client-secrets-manager": true,
-  "client-security-ir": false,
+  "client-security-ir": true,
   "client-securityhub": false,
   "client-securitylake": false,
   "client-serverlessapplicationrepository": false,
