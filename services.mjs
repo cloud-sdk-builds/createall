@@ -162,7 +162,7 @@ export const services = {
   "client-freetier": true,
   "client-fsx": true,
   "client-gamelift": true,
-  "client-gameliftstreams": false,
+  "client-gameliftstreams": true,
   "client-geo-maps": false,
   "client-geo-places": false,
   "client-geo-routes": false,
