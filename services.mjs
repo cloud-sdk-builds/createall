@@ -304,7 +304,7 @@ export const services = {
   "client-pipes": true,
   "client-polly": true,
   "client-pricing": true,
-  "client-proton": false,
+  "client-proton": true,
   "client-qapps": false,
   "client-qbusiness": false,
   "client-qconnect": false,
