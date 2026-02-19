@@ -359,7 +359,7 @@ export const services = {
   "client-service-catalog": true,
   "client-service-quotas": true,
   "client-servicediscovery": true,
-  "client-ses": false,
+  "client-ses": true,
   "client-sesv2": false,
   "client-sfn": false,
   "client-shield": false,
