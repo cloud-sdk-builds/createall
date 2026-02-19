@@ -284,7 +284,7 @@ export const services = {
   "client-osis": true,
   "client-outposts": true,
   "client-panorama": true,
-  "client-partnercentral-account": false,
+  "client-partnercentral-account": true,
   "client-partnercentral-benefits": false,
   "client-partnercentral-channel": false,
   "client-partnercentral-selling": false,
