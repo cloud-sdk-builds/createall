@@ -383,7 +383,7 @@ export const services = {
   "client-storage-gateway": true,
   "client-sts": true,
   "client-supplychain": true,
-  "client-support-app": false,
+  "client-support-app": true,
   "client-support": false,
   "client-swf": false,
   "client-synthetics": false,
