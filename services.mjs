@@ -401,7 +401,7 @@ export const services = {
   "client-verifiedpermissions": true,
   "client-voice-id": true,
   "client-vpc-lattice": true,
-  "client-waf-regional": false,
+  "client-waf-regional": true,
   "client-waf": false,
   "client-wafv2": false,
   "client-wellarchitected": false,
