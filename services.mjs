@@ -243,7 +243,7 @@ export const services = {
   "client-marketplace-metering": true,
   "client-marketplace-reporting": true,
   "client-mediaconnect": true,
-  "client-mediaconvert": false,
+  "client-mediaconvert": true,
   "client-medialive": false,
   "client-mediapackage-vod": false,
   "client-mediapackage": false,
