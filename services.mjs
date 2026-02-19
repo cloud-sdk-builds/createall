@@ -136,7 +136,7 @@ export const services = {
   "client-ecr-public": true,
   "client-ecr": true,
   "client-ecs": true,
-  "client-efs": false,
+  "client-efs": true,
   "client-eks-auth": false,
   "client-eks": false,
   "client-elastic-beanstalk": false,
