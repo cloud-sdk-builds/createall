@@ -241,7 +241,7 @@ export const services = {
   "client-marketplace-deployment": true,
   "client-marketplace-entitlement-service": true,
   "client-marketplace-metering": true,
-  "client-marketplace-reporting": false,
+  "client-marketplace-reporting": true,
   "client-mediaconnect": false,
   "client-mediaconvert": false,
   "client-medialive": false,
