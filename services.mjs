@@ -262,7 +262,7 @@ export const services = {
   "client-mpa": true,
   "client-mq": true,
   "client-mturk": true,
-  "client-mwaa-serverless": false,
+  "client-mwaa-serverless": true,
   "client-mwaa": false,
   "client-neptune-graph": false,
   "client-neptune": false,
