@@ -193,7 +193,7 @@ export const services = {
   "client-iot": true,
   "client-iotanalytics": true,
   "client-iotdeviceadvisor": true,
-  "client-iotfleetwise": false,
+  "client-iotfleetwise": true,
   "client-iotsecuretunneling": false,
   "client-iotsitewise": false,
   "client-iotthingsgraph": false,
