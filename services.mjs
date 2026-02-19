@@ -233,7 +233,7 @@ export const services = {
   "client-machine-learning": true,
   "client-macie2": true,
   "client-mailmanager": true,
-  "client-managedblockchain-query": false,
+  "client-managedblockchain-query": true,
   "client-managedblockchain": false,
   "client-marketplace-agreement": false,
   "client-marketplace-catalog": false,
