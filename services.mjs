@@ -170,7 +170,7 @@ export const services = {
   "client-global-accelerator": true,
   "client-glue": true,
   "client-grafana": true,
-  "client-greengrass": false,
+  "client-greengrass": true,
   "client-greengrassv2": false,
   "client-groundstation": false,
   "client-guardduty": false,
