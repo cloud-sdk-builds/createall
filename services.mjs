@@ -312,7 +312,7 @@ export const services = {
   "client-ram": true,
   "client-rbin": true,
   "client-rds-data": true,
-  "client-rds": false,
+  "client-rds": true,
   "client-redshift-data": false,
   "client-redshift-serverless": false,
   "client-redshift": false,
