@@ -377,7 +377,7 @@ export const services = {
   "client-ssm-quicksetup": true,
   "client-ssm-sap": true,
   "client-ssm": true,
-  "client-sso-admin": false,
+  "client-sso-admin": true,
   "client-sso-oidc": false,
   "client-sso": false,
   "client-storage-gateway": false,
