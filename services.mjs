@@ -163,7 +163,7 @@ export const services = {
   "client-fsx": true,
   "client-gamelift": true,
   "client-gameliftstreams": true,
-  "client-geo-maps": false,
+  "client-geo-maps": true,
   "client-geo-places": false,
   "client-geo-routes": false,
   "client-glacier": false,
