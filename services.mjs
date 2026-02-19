@@ -279,7 +279,7 @@ export const services = {
   "client-odb": true,
   "client-omics": true,
   "client-opensearch": true,
-  "client-opensearchserverless": false,
+  "client-opensearchserverless": true,
   "client-organizations": false,
   "client-osis": false,
   "client-outposts": false,
