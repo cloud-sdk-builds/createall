@@ -234,7 +234,7 @@ export const services = {
   "client-macie2": true,
   "client-mailmanager": true,
   "client-managedblockchain-query": true,
-  "client-managedblockchain": false,
+  "client-managedblockchain": true,
   "client-marketplace-agreement": false,
   "client-marketplace-catalog": false,
   "client-marketplace-commerce-analytics": false,
