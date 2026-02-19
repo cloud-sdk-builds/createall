@@ -347,7 +347,7 @@ export const services = {
   "client-sagemaker-runtime-http2": true,
   "client-sagemaker-runtime": true,
   "client-sagemaker": true,
-  "client-savingsplans": false,
+  "client-savingsplans": true,
   "client-scheduler": false,
   "client-schemas": false,
   "client-secrets-manager": false,
