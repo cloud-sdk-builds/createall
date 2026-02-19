@@ -280,7 +280,7 @@ export const services = {
   "client-omics": true,
   "client-opensearch": true,
   "client-opensearchserverless": true,
-  "client-organizations": false,
+  "client-organizations": true,
   "client-osis": false,
   "client-outposts": false,
   "client-panorama": false,
