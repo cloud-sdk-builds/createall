@@ -247,7 +247,7 @@ export const services = {
   "client-medialive": true,
   "client-mediapackage-vod": true,
   "client-mediapackage": true,
-  "client-mediapackagev2": false,
+  "client-mediapackagev2": true,
   "client-mediastore-data": false,
   "client-mediastore": false,
   "client-mediatailor": false,
