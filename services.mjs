@@ -298,7 +298,7 @@ export const services = {
   "client-personalize": true,
   "client-pi": true,
   "client-pinpoint-email": true,
-  "client-pinpoint-sms-voice-v2": false,
+  "client-pinpoint-sms-voice-v2": true,
   "client-pinpoint-sms-voice": false,
   "client-pinpoint": false,
   "client-pipes": false,
