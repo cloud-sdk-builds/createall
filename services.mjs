@@ -311,7 +311,7 @@ export const services = {
   "client-quicksight": true,
   "client-ram": true,
   "client-rbin": true,
-  "client-rds-data": false,
+  "client-rds-data": true,
   "client-rds": false,
   "client-redshift-data": false,
   "client-redshift-serverless": false,
