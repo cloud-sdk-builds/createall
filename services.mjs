@@ -342,7 +342,7 @@ export const services = {
   "client-sagemaker-a2i-runtime": true,
   "client-sagemaker-edge": true,
   "client-sagemaker-featurestore-runtime": true,
-  "client-sagemaker-geospatial": false,
+  "client-sagemaker-geospatial": true,
   "client-sagemaker-metrics": false,
   "client-sagemaker-runtime-http2": false,
   "client-sagemaker-runtime": false,
