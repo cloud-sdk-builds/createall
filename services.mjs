@@ -244,7 +244,7 @@ export const services = {
   "client-marketplace-reporting": true,
   "client-mediaconnect": true,
   "client-mediaconvert": true,
-  "client-medialive": false,
+  "client-medialive": true,
   "client-mediapackage-vod": false,
   "client-mediapackage": false,
   "client-mediapackagev2": false,
