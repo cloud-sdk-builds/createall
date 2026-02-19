@@ -318,7 +318,7 @@ export const services = {
   "client-redshift": true,
   "client-rekognition": true,
   "client-rekognitionstreaming": true,
-  "client-repostspace": false,
+  "client-repostspace": true,
   "client-resiliencehub": false,
   "client-resource-explorer-2": false,
   "client-resource-groups-tagging-api": false,
