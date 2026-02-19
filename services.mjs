@@ -372,7 +372,7 @@ export const services = {
   "client-socialmessaging": true,
   "client-sqs": true,
   "client-ssm-contacts": true,
-  "client-ssm-guiconnect": false,
+  "client-ssm-guiconnect": true,
   "client-ssm-incidents": false,
   "client-ssm-quicksetup": false,
   "client-ssm-sap": false,
