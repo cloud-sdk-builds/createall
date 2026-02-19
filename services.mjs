@@ -387,7 +387,7 @@ export const services = {
   "client-support": true,
   "client-swf": true,
   "client-synthetics": true,
-  "client-taxsettings": false,
+  "client-taxsettings": true,
   "client-textract": false,
   "client-timestream-influxdb": false,
   "client-timestream-query": false,
