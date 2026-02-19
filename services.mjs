@@ -393,7 +393,7 @@ export const services = {
   "client-timestream-query": true,
   "client-timestream-write": true,
   "client-tnb": true,
-  "client-transcribe-streaming": false,
+  "client-transcribe-streaming": true,
   "client-transcribe": false,
   "client-transfer": false,
   "client-translate": false,
