@@ -265,7 +265,7 @@ export const services = {
   "client-mwaa-serverless": true,
   "client-mwaa": true,
   "client-neptune-graph": true,
-  "client-neptune": false,
+  "client-neptune": true,
   "client-neptunedata": false,
   "client-network-firewall": false,
   "client-networkflowmonitor": false,
