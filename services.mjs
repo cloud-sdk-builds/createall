@@ -331,7 +331,7 @@ export const services = {
   "client-route53-recovery-readiness": true,
   "client-route53globalresolver": true,
   "client-route53profiles": true,
-  "client-route53resolver": false,
+  "client-route53resolver": true,
   "client-rtbfabric": false,
   "client-rum": false,
   "client-s3-control": false,
