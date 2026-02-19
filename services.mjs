@@ -161,7 +161,7 @@ export const services = {
   "client-frauddetector": true,
   "client-freetier": true,
   "client-fsx": true,
-  "client-gamelift": false,
+  "client-gamelift": true,
   "client-gameliftstreams": false,
   "client-geo-maps": false,
   "client-geo-places": false,
