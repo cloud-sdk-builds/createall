@@ -358,7 +358,7 @@ export const services = {
   "client-service-catalog-appregistry": true,
   "client-service-catalog": true,
   "client-service-quotas": true,
-  "client-servicediscovery": false,
+  "client-servicediscovery": true,
   "client-ses": false,
   "client-sesv2": false,
   "client-sfn": false,
