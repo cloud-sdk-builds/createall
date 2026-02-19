@@ -360,7 +360,7 @@ export const services = {
   "client-service-quotas": true,
   "client-servicediscovery": true,
   "client-ses": true,
-  "client-sesv2": false,
+  "client-sesv2": true,
   "client-sfn": false,
   "client-shield": false,
   "client-signer": false,
