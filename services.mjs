@@ -365,7 +365,7 @@ export const services = {
   "client-shield": true,
   "client-signer": true,
   "client-signin": true,
-  "client-simspaceweaver": false,
+  "client-simspaceweaver": true,
   "client-snow-device-management": false,
   "client-snowball": false,
   "client-sns": false,
