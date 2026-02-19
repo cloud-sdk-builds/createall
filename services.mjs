@@ -370,7 +370,7 @@ export const services = {
   "client-snowball": true,
   "client-sns": true,
   "client-socialmessaging": true,
-  "client-sqs": false,
+  "client-sqs": true,
   "client-ssm-contacts": false,
   "client-ssm-guiconnect": false,
   "client-ssm-incidents": false,
