@@ -198,7 +198,7 @@ export const services = {
   "client-iotsitewise": true,
   "client-iotthingsgraph": true,
   "client-iottwinmaker": true,
-  "client-ivs-realtime": false,
+  "client-ivs-realtime": true,
   "client-ivs": false,
   "client-ivschat": false,
   "client-kafka": false,
