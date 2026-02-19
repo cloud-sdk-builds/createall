@@ -216,7 +216,7 @@ export const services = {
   "client-kinesis-video": true,
   "client-kinesis": true,
   "client-kms": true,
-  "client-lakeformation": false,
+  "client-lakeformation": true,
   "client-lambda": false,
   "client-launch-wizard": false,
   "client-lex-model-building-service": false,
