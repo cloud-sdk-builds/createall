@@ -181,7 +181,7 @@ export const services = {
   "client-imagebuilder": true,
   "client-inspector-scan": true,
   "client-inspector": true,
-  "client-inspector2": false,
+  "client-inspector2": true,
   "client-internetmonitor": false,
   "client-invoicing": false,
   "client-iot-data-plane": false,
