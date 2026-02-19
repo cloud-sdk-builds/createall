@@ -316,7 +316,7 @@ export const services = {
   "client-redshift-data": true,
   "client-redshift-serverless": true,
   "client-redshift": true,
-  "client-rekognition": false,
+  "client-rekognition": true,
   "client-rekognitionstreaming": false,
   "client-repostspace": false,
   "client-resiliencehub": false,
