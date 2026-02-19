@@ -242,7 +242,7 @@ export const services = {
   "client-marketplace-entitlement-service": true,
   "client-marketplace-metering": true,
   "client-marketplace-reporting": true,
-  "client-mediaconnect": false,
+  "client-mediaconnect": true,
   "client-mediaconvert": false,
   "client-medialive": false,
   "client-mediapackage-vod": false,
