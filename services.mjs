@@ -237,7 +237,7 @@ export const services = {
   "client-managedblockchain": true,
   "client-marketplace-agreement": true,
   "client-marketplace-catalog": true,
-  "client-marketplace-commerce-analytics": false,
+  "client-marketplace-commerce-analytics": true,
   "client-marketplace-deployment": false,
   "client-marketplace-entitlement-service": false,
   "client-marketplace-metering": false,
