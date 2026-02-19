@@ -296,7 +296,7 @@ export const services = {
   "client-personalize-events": true,
   "client-personalize-runtime": true,
   "client-personalize": true,
-  "client-pi": false,
+  "client-pi": true,
   "client-pinpoint-email": false,
   "client-pinpoint-sms-voice-v2": false,
   "client-pinpoint-sms-voice": false,
