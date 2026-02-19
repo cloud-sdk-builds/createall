@@ -254,7 +254,7 @@ export const services = {
   "client-medical-imaging": true,
   "client-memorydb": true,
   "client-mgn": true,
-  "client-migration-hub-refactor-spaces": false,
+  "client-migration-hub-refactor-spaces": true,
   "client-migration-hub": false,
   "client-migrationhub-config": false,
   "client-migrationhuborchestrator": false,
