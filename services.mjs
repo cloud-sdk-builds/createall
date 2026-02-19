@@ -171,7 +171,7 @@ export const services = {
   "client-glue": true,
   "client-grafana": true,
   "client-greengrass": true,
-  "client-greengrassv2": false,
+  "client-greengrassv2": true,
   "client-groundstation": false,
   "client-guardduty": false,
   "client-health": false,
