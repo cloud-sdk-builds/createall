@@ -261,7 +261,7 @@ export const services = {
   "client-migrationhubstrategy": true,
   "client-mpa": true,
   "client-mq": true,
-  "client-mturk": false,
+  "client-mturk": true,
   "client-mwaa-serverless": false,
   "client-mwaa": false,
   "client-neptune-graph": false,
