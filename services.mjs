@@ -396,7 +396,7 @@ export const services = {
   "client-transcribe-streaming": true,
   "client-transcribe": true,
   "client-transfer": true,
-  "client-translate": false,
+  "client-translate": true,
   "client-trustedadvisor": false,
   "client-verifiedpermissions": false,
   "client-voice-id": false,
