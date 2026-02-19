@@ -355,7 +355,7 @@ export const services = {
   "client-securityhub": true,
   "client-securitylake": true,
   "client-serverlessapplicationrepository": true,
-  "client-service-catalog-appregistry": false,
+  "client-service-catalog-appregistry": true,
   "client-service-catalog": false,
   "client-service-quotas": false,
   "client-servicediscovery": false,
