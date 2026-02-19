@@ -225,7 +225,7 @@ export const services = {
   "client-lex-runtime-v2": true,
   "client-license-manager-linux-subscriptions": true,
   "client-license-manager-user-subscriptions": true,
-  "client-license-manager": false,
+  "client-license-manager": true,
   "client-lightsail": false,
   "client-location": false,
   "client-lookoutequipment": false,
