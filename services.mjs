@@ -319,7 +319,7 @@ export const services = {
   "client-rekognition": true,
   "client-rekognitionstreaming": true,
   "client-repostspace": true,
-  "client-resiliencehub": false,
+  "client-resiliencehub": true,
   "client-resource-explorer-2": false,
   "client-resource-groups-tagging-api": false,
   "client-resource-groups": false,
