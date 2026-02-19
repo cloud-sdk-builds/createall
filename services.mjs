@@ -141,7 +141,7 @@ export const services = {
   "client-eks": true,
   "client-elastic-beanstalk": true,
   "client-elastic-load-balancing-v2": true,
-  "client-elastic-load-balancing": false,
+  "client-elastic-load-balancing": true,
   "client-elasticache": false,
   "client-elasticsearch-service": false,
   "client-emr-containers": false,
