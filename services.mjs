@@ -155,7 +155,7 @@ export const services = {
   "client-finspace": true,
   "client-firehose": true,
   "client-fis": true,
-  "client-fms": false,
+  "client-fms": true,
   "client-forecast": false,
   "client-forecastquery": false,
   "client-frauddetector": false,
