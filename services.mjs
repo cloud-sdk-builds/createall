@@ -281,7 +281,7 @@ export const services = {
   "client-opensearch": true,
   "client-opensearchserverless": true,
   "client-organizations": true,
-  "client-osis": false,
+  "client-osis": true,
   "client-outposts": false,
   "client-panorama": false,
   "client-partnercentral-account": false,
