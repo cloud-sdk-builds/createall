@@ -185,7 +185,7 @@ export const services = {
   "client-internetmonitor": true,
   "client-invoicing": true,
   "client-iot-data-plane": true,
-  "client-iot-events-data": false,
+  "client-iot-events-data": true,
   "client-iot-events": false,
   "client-iot-jobs-data-plane": false,
   "client-iot-managed-integrations": false,
