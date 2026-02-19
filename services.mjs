@@ -324,7 +324,7 @@ export const services = {
   "client-resource-groups-tagging-api": true,
   "client-resource-groups": true,
   "client-rolesanywhere": true,
-  "client-route-53-domains": false,
+  "client-route-53-domains": true,
   "client-route-53": false,
   "client-route53-recovery-cluster": false,
   "client-route53-recovery-control-config": false,
