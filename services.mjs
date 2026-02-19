@@ -294,7 +294,7 @@ export const services = {
   "client-pca-connector-scep": true,
   "client-pcs": true,
   "client-personalize-events": true,
-  "client-personalize-runtime": false,
+  "client-personalize-runtime": true,
   "client-personalize": false,
   "client-pi": false,
   "client-pinpoint-email": false,
