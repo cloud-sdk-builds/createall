@@ -160,7 +160,7 @@ export const services = {
   "client-forecastquery": true,
   "client-frauddetector": true,
   "client-freetier": true,
-  "client-fsx": false,
+  "client-fsx": true,
   "client-gamelift": false,
   "client-gameliftstreams": false,
   "client-geo-maps": false,
