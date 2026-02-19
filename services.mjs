@@ -219,7 +219,7 @@ export const services = {
   "client-lakeformation": true,
   "client-lambda": true,
   "client-launch-wizard": true,
-  "client-lex-model-building-service": false,
+  "client-lex-model-building-service": true,
   "client-lex-models-v2": false,
   "client-lex-runtime-service": false,
   "client-lex-runtime-v2": false,
