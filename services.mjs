@@ -249,7 +249,7 @@ export const services = {
   "client-mediapackage": true,
   "client-mediapackagev2": true,
   "client-mediastore-data": true,
-  "client-mediastore": false,
+  "client-mediastore": true,
   "client-mediatailor": false,
   "client-medical-imaging": false,
   "client-memorydb": false,
