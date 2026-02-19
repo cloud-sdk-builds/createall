@@ -353,7 +353,7 @@ export const services = {
   "client-secrets-manager": true,
   "client-security-ir": true,
   "client-securityhub": true,
-  "client-securitylake": false,
+  "client-securitylake": true,
   "client-serverlessapplicationrepository": false,
   "client-service-catalog-appregistry": false,
   "client-service-catalog": false,
