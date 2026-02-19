@@ -209,7 +209,7 @@ export const services = {
   "client-keyspacesstreams": true,
   "client-kinesis-analytics-v2": true,
   "client-kinesis-analytics": true,
-  "client-kinesis-video-archived-media": false,
+  "client-kinesis-video-archived-media": true,
   "client-kinesis-video-media": false,
   "client-kinesis-video-signaling": false,
   "client-kinesis-video-webrtc-storage": false,
