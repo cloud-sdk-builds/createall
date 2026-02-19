@@ -391,7 +391,7 @@ export const services = {
   "client-textract": true,
   "client-timestream-influxdb": true,
   "client-timestream-query": true,
-  "client-timestream-write": false,
+  "client-timestream-write": true,
   "client-tnb": false,
   "client-transcribe-streaming": false,
   "client-transcribe": false,
