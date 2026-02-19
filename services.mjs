@@ -269,7 +269,7 @@ export const services = {
   "client-neptunedata": true,
   "client-network-firewall": true,
   "client-networkflowmonitor": true,
-  "client-networkmanager": false,
+  "client-networkmanager": true,
   "client-networkmonitor": false,
   "client-notifications": false,
   "client-notificationscontacts": false,
