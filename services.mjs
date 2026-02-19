@@ -172,7 +172,7 @@ export const services = {
   "client-grafana": true,
   "client-greengrass": true,
   "client-greengrassv2": true,
-  "client-groundstation": false,
+  "client-groundstation": true,
   "client-guardduty": false,
   "client-health": false,
   "client-healthlake": false,
