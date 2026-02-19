@@ -251,7 +251,7 @@ export const services = {
   "client-mediastore-data": true,
   "client-mediastore": true,
   "client-mediatailor": true,
-  "client-medical-imaging": false,
+  "client-medical-imaging": true,
   "client-memorydb": false,
   "client-mgn": false,
   "client-migration-hub-refactor-spaces": false,
