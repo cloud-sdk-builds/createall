@@ -215,7 +215,7 @@ export const services = {
   "client-kinesis-video-webrtc-storage": true,
   "client-kinesis-video": true,
   "client-kinesis": true,
-  "client-kms": false,
+  "client-kms": true,
   "client-lakeformation": false,
   "client-lambda": false,
   "client-launch-wizard": false,
