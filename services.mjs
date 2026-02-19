@@ -322,7 +322,7 @@ export const services = {
   "client-resiliencehub": true,
   "client-resource-explorer-2": true,
   "client-resource-groups-tagging-api": true,
-  "client-resource-groups": false,
+  "client-resource-groups": true,
   "client-rolesanywhere": false,
   "client-route-53-domains": false,
   "client-route-53": false,
