@@ -398,7 +398,7 @@ export const services = {
   "client-transfer": true,
   "client-translate": true,
   "client-trustedadvisor": true,
-  "client-verifiedpermissions": false,
+  "client-verifiedpermissions": true,
   "client-voice-id": false,
   "client-vpc-lattice": false,
   "client-waf-regional": false,
