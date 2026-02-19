@@ -191,7 +191,7 @@ export const services = {
   "client-iot-managed-integrations": true,
   "client-iot-wireless": true,
   "client-iot": true,
-  "client-iotanalytics": false,
+  "client-iotanalytics": true,
   "client-iotdeviceadvisor": false,
   "client-iotfleetwise": false,
   "client-iotsecuretunneling": false,
