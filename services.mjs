@@ -293,7 +293,7 @@ export const services = {
   "client-pca-connector-ad": true,
   "client-pca-connector-scep": true,
   "client-pcs": true,
-  "client-personalize-events": false,
+  "client-personalize-events": true,
   "client-personalize-runtime": false,
   "client-personalize": false,
   "client-pi": false,
