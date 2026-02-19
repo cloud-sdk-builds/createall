@@ -232,7 +232,7 @@ export const services = {
   "client-m2": true,
   "client-machine-learning": true,
   "client-macie2": true,
-  "client-mailmanager": false,
+  "client-mailmanager": true,
   "client-managedblockchain-query": false,
   "client-managedblockchain": false,
   "client-marketplace-agreement": false,
