@@ -255,7 +255,7 @@ export const services = {
   "client-memorydb": true,
   "client-mgn": true,
   "client-migration-hub-refactor-spaces": true,
-  "client-migration-hub": false,
+  "client-migration-hub": true,
   "client-migrationhub-config": false,
   "client-migrationhuborchestrator": false,
   "client-migrationhubstrategy": false,
