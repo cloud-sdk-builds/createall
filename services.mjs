@@ -187,7 +187,7 @@ export const services = {
   "client-iot-data-plane": true,
   "client-iot-events-data": true,
   "client-iot-events": true,
-  "client-iot-jobs-data-plane": false,
+  "client-iot-jobs-data-plane": true,
   "client-iot-managed-integrations": false,
   "client-iot-wireless": false,
   "client-iot": false,
