@@ -143,7 +143,7 @@ export const services = {
   "client-elastic-load-balancing-v2": true,
   "client-elastic-load-balancing": true,
   "client-elasticache": true,
-  "client-elasticsearch-service": false,
+  "client-elasticsearch-service": true,
   "client-emr-containers": false,
   "client-emr-serverless": false,
   "client-emr": false,
