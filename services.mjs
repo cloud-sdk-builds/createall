@@ -173,7 +173,7 @@ export const services = {
   "client-greengrass": true,
   "client-greengrassv2": true,
   "client-groundstation": true,
-  "client-guardduty": false,
+  "client-guardduty": true,
   "client-health": false,
   "client-healthlake": false,
   "client-iam": false,
