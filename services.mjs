@@ -288,7 +288,7 @@ export const services = {
   "client-partnercentral-benefits": true,
   "client-partnercentral-channel": true,
   "client-partnercentral-selling": true,
-  "client-payment-cryptography-data": false,
+  "client-payment-cryptography-data": true,
   "client-payment-cryptography": false,
   "client-pca-connector-ad": false,
   "client-pca-connector-scep": false,
