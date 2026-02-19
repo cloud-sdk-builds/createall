@@ -272,7 +272,7 @@ export const services = {
   "client-networkmanager": true,
   "client-networkmonitor": true,
   "client-notifications": true,
-  "client-notificationscontacts": false,
+  "client-notificationscontacts": true,
   "client-nova-act": false,
   "client-oam": false,
   "client-observabilityadmin": false,
