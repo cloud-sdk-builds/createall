@@ -403,7 +403,7 @@ export const services = {
   "client-vpc-lattice": true,
   "client-waf-regional": true,
   "client-waf": true,
-  "client-wafv2": false,
+  "client-wafv2": true,
   "client-wellarchitected": false,
   "client-wickr": false,
   "client-wisdom": false,
