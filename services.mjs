@@ -344,7 +344,7 @@ export const services = {
   "client-sagemaker-featurestore-runtime": true,
   "client-sagemaker-geospatial": true,
   "client-sagemaker-metrics": true,
-  "client-sagemaker-runtime-http2": false,
+  "client-sagemaker-runtime-http2": true,
   "client-sagemaker-runtime": false,
   "client-sagemaker": false,
   "client-savingsplans": false,
