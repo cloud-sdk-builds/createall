@@ -197,7 +197,7 @@ export const services = {
   "client-iotsecuretunneling": true,
   "client-iotsitewise": true,
   "client-iotthingsgraph": true,
-  "client-iottwinmaker": false,
+  "client-iottwinmaker": true,
   "client-ivs-realtime": false,
   "client-ivs": false,
   "client-ivschat": false,
