@@ -369,7 +369,7 @@ export const services = {
   "client-snow-device-management": true,
   "client-snowball": true,
   "client-sns": true,
-  "client-socialmessaging": false,
+  "client-socialmessaging": true,
   "client-sqs": false,
   "client-ssm-contacts": false,
   "client-ssm-guiconnect": false,
