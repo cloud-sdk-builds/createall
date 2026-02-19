@@ -164,7 +164,7 @@ export const services = {
   "client-gamelift": true,
   "client-gameliftstreams": true,
   "client-geo-maps": true,
-  "client-geo-places": false,
+  "client-geo-places": true,
   "client-geo-routes": false,
   "client-glacier": false,
   "client-global-accelerator": false,
