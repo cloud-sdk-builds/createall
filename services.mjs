@@ -382,7 +382,7 @@ export const services = {
   "client-sso": true,
   "client-storage-gateway": true,
   "client-sts": true,
-  "client-supplychain": false,
+  "client-supplychain": true,
   "client-support-app": false,
   "client-support": false,
   "client-swf": false,
