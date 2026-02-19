@@ -139,7 +139,7 @@ export const services = {
   "client-efs": true,
   "client-eks-auth": true,
   "client-eks": true,
-  "client-elastic-beanstalk": false,
+  "client-elastic-beanstalk": true,
   "client-elastic-load-balancing-v2": false,
   "client-elastic-load-balancing": false,
   "client-elasticache": false,
