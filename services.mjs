@@ -291,7 +291,7 @@ export const services = {
   "client-payment-cryptography-data": true,
   "client-payment-cryptography": true,
   "client-pca-connector-ad": true,
-  "client-pca-connector-scep": false,
+  "client-pca-connector-scep": true,
   "client-pcs": false,
   "client-personalize-events": false,
   "client-personalize-runtime": false,
