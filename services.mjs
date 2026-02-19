@@ -329,7 +329,7 @@ export const services = {
   "client-route53-recovery-cluster": true,
   "client-route53-recovery-control-config": true,
   "client-route53-recovery-readiness": true,
-  "client-route53globalresolver": false,
+  "client-route53globalresolver": true,
   "client-route53profiles": false,
   "client-route53resolver": false,
   "client-rtbfabric": false,
