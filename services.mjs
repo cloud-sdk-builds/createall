@@ -227,7 +227,7 @@ export const services = {
   "client-license-manager-user-subscriptions": true,
   "client-license-manager": true,
   "client-lightsail": true,
-  "client-location": false,
+  "client-location": true,
   "client-lookoutequipment": false,
   "client-m2": false,
   "client-machine-learning": false,
