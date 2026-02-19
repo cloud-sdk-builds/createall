@@ -399,7 +399,7 @@ export const services = {
   "client-translate": true,
   "client-trustedadvisor": true,
   "client-verifiedpermissions": true,
-  "client-voice-id": false,
+  "client-voice-id": true,
   "client-vpc-lattice": false,
   "client-waf-regional": false,
   "client-waf": false,
