@@ -384,7 +384,7 @@ export const services = {
   "client-sts": true,
   "client-supplychain": true,
   "client-support-app": true,
-  "client-support": false,
+  "client-support": true,
   "client-swf": false,
   "client-synthetics": false,
   "client-taxsettings": false,
