@@ -300,7 +300,7 @@ export const services = {
   "client-pinpoint-email": true,
   "client-pinpoint-sms-voice-v2": true,
   "client-pinpoint-sms-voice": true,
-  "client-pinpoint": false,
+  "client-pinpoint": true,
   "client-pipes": false,
   "client-polly": false,
   "client-pricing": false,
