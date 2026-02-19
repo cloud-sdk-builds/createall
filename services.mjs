@@ -253,7 +253,7 @@ export const services = {
   "client-mediatailor": true,
   "client-medical-imaging": true,
   "client-memorydb": true,
-  "client-mgn": false,
+  "client-mgn": true,
   "client-migration-hub-refactor-spaces": false,
   "client-migration-hub": false,
   "client-migrationhub-config": false,
