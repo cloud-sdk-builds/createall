@@ -201,7 +201,7 @@ export const services = {
   "client-ivs-realtime": true,
   "client-ivs": true,
   "client-ivschat": true,
-  "client-kafka": false,
+  "client-kafka": true,
   "client-kafkaconnect": false,
   "client-kendra-ranking": false,
   "client-kendra": false,
