@@ -231,7 +231,7 @@ export const services = {
   "client-lookoutequipment": true,
   "client-m2": true,
   "client-machine-learning": true,
-  "client-macie2": false,
+  "client-macie2": true,
   "client-mailmanager": false,
   "client-managedblockchain-query": false,
   "client-managedblockchain": false,
