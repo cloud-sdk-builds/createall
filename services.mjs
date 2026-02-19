@@ -158,7 +158,7 @@ export const services = {
   "client-fms": true,
   "client-forecast": true,
   "client-forecastquery": true,
-  "client-frauddetector": false,
+  "client-frauddetector": true,
   "client-freetier": false,
   "client-fsx": false,
   "client-gamelift": false,
