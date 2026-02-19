@@ -349,7 +349,7 @@ export const services = {
   "client-sagemaker": true,
   "client-savingsplans": true,
   "client-scheduler": true,
-  "client-schemas": false,
+  "client-schemas": true,
   "client-secrets-manager": false,
   "client-security-ir": false,
   "client-securityhub": false,
