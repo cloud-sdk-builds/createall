@@ -413,7 +413,7 @@ export const services = {
   "client-workspaces-instances": true,
   "client-workspaces-thin-client": true,
   "client-workspaces-web": true,
-  "client-workspaces": false,
+  "client-workspaces": true,
   "client-xray": false,
   "lib-dynamodb": false,
   "lib-storage": false,
