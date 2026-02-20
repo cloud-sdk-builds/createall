@@ -421,7 +421,7 @@ export const services = {
   "config": true,
   "crc64-nvme-crt": true,
   "crc64-nvme": true,
-  "credential-providers": false,
+  "credential-providers": true,
   "dsql-signer": false,
   "ec2-metadata-service": false,
   "nested-clients": false,
