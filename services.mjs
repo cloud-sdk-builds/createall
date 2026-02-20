@@ -410,7 +410,7 @@ export const services = {
   "client-workdocs": true,
   "client-workmail": true,
   "client-workmailmessageflow": true,
-  "client-workspaces-instances": false,
+  "client-workspaces-instances": true,
   "client-workspaces-thin-client": false,
   "client-workspaces-web": false,
   "client-workspaces": false,
