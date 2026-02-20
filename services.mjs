@@ -408,7 +408,7 @@ export const services = {
   "client-wickr": true,
   "client-wisdom": true,
   "client-workdocs": true,
-  "client-workmail": false,
+  "client-workmail": true,
   "client-workmailmessageflow": false,
   "client-workspaces-instances": false,
   "client-workspaces-thin-client": false,
