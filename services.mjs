@@ -416,7 +416,7 @@ export const services = {
   "client-workspaces": true,
   "client-xray": true,
   "lib-dynamodb": true,
-  "lib-storage": false,
+  "lib-storage": true,
   "cloudfront-signer": false,
   "config": false,
   "crc64-nvme-crt": false,
