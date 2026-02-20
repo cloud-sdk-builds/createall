@@ -418,7 +418,7 @@ export const services = {
   "lib-dynamodb": true,
   "lib-storage": true,
   "cloudfront-signer": true,
-  "config": false,
+  "config": true,
   "crc64-nvme-crt": false,
   "crc64-nvme": false,
   "credential-providers": false,
