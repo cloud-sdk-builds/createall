@@ -434,7 +434,7 @@ export const services = {
   "signature-v4a": true,
   "smithy-client": true,
   "token-providers": true,
-  "util-dynamodb": false,
+  "util-dynamodb": true,
   "util-endpoints": false,
   "xhr-http-handler": false
 };
