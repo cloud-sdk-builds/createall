@@ -411,7 +411,7 @@ export const services = {
   "client-workmail": true,
   "client-workmailmessageflow": true,
   "client-workspaces-instances": true,
-  "client-workspaces-thin-client": false,
+  "client-workspaces-thin-client": true,
   "client-workspaces-web": false,
   "client-workspaces": false,
   "client-xray": false,
