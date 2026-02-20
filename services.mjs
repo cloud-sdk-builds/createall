@@ -426,7 +426,7 @@ export const services = {
   "ec2-metadata-service": true,
   "nested-clients": true,
   "polly-request-presigner": true,
-  "rds-signer": false,
+  "rds-signer": true,
   "s3-presigned-post": false,
   "s3-request-presigner": false,
   "signature-v4-crt": false,
