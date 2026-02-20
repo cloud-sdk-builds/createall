@@ -435,7 +435,7 @@ export const services = {
   "smithy-client": true,
   "token-providers": true,
   "util-dynamodb": true,
-  "util-endpoints": false,
+  "util-endpoints": true,
   "xhr-http-handler": false
 };
 export default services;
