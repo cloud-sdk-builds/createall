@@ -420,7 +420,7 @@ export const services = {
   "cloudfront-signer": true,
   "config": true,
   "crc64-nvme-crt": true,
-  "crc64-nvme": false,
+  "crc64-nvme": true,
   "credential-providers": false,
   "dsql-signer": false,
   "ec2-metadata-service": false,
