@@ -430,7 +430,7 @@ export const services = {
   "s3-presigned-post": true,
   "s3-request-presigner": true,
   "signature-v4-crt": true,
-  "signature-v4-multi-region": false,
+  "signature-v4-multi-region": true,
   "signature-v4a": false,
   "smithy-client": false,
   "token-providers": false,
