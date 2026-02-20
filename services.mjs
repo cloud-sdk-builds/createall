@@ -412,7 +412,7 @@ export const services = {
   "client-workmailmessageflow": true,
   "client-workspaces-instances": true,
   "client-workspaces-thin-client": true,
-  "client-workspaces-web": false,
+  "client-workspaces-web": true,
   "client-workspaces": false,
   "client-xray": false,
   "lib-dynamodb": false,
