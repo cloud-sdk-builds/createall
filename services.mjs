@@ -432,7 +432,7 @@ export const services = {
   "signature-v4-crt": true,
   "signature-v4-multi-region": true,
   "signature-v4a": true,
-  "smithy-client": false,
+  "smithy-client": true,
   "token-providers": false,
   "util-dynamodb": false,
   "util-endpoints": false,
