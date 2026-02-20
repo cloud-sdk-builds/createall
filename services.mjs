@@ -409,7 +409,7 @@ export const services = {
   "client-wisdom": true,
   "client-workdocs": true,
   "client-workmail": true,
-  "client-workmailmessageflow": false,
+  "client-workmailmessageflow": true,
   "client-workspaces-instances": false,
   "client-workspaces-thin-client": false,
   "client-workspaces-web": false,
