@@ -422,7 +422,7 @@ export const services = {
   "crc64-nvme-crt": true,
   "crc64-nvme": true,
   "credential-providers": true,
-  "dsql-signer": false,
+  "dsql-signer": true,
   "ec2-metadata-service": false,
   "nested-clients": false,
   "polly-request-presigner": false,
