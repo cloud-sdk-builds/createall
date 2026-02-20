@@ -436,6 +436,6 @@ export const services = {
   "token-providers": true,
   "util-dynamodb": true,
   "util-endpoints": true,
-  "xhr-http-handler": false
+  "xhr-http-handler": true
 };
 export default services;
