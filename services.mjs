@@ -431,7 +431,7 @@ export const services = {
   "s3-request-presigner": true,
   "signature-v4-crt": true,
   "signature-v4-multi-region": true,
-  "signature-v4a": false,
+  "signature-v4a": true,
   "smithy-client": false,
   "token-providers": false,
   "util-dynamodb": false,
