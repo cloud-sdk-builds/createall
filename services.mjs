@@ -419,7 +419,7 @@ export const services = {
   "lib-storage": true,
   "cloudfront-signer": true,
   "config": true,
-  "crc64-nvme-crt": false,
+  "crc64-nvme-crt": true,
   "crc64-nvme": false,
   "credential-providers": false,
   "dsql-signer": false,
