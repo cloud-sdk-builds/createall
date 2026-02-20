@@ -427,7 +427,7 @@ export const services = {
   "nested-clients": true,
   "polly-request-presigner": true,
   "rds-signer": true,
-  "s3-presigned-post": false,
+  "s3-presigned-post": true,
   "s3-request-presigner": false,
   "signature-v4-crt": false,
   "signature-v4-multi-region": false,
