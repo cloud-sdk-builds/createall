@@ -414,7 +414,7 @@ export const services = {
   "client-workspaces-thin-client": true,
   "client-workspaces-web": true,
   "client-workspaces": true,
-  "client-xray": false,
+  "client-xray": true,
   "lib-dynamodb": false,
   "lib-storage": false,
   "cloudfront-signer": false,
